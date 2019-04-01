@@ -11,6 +11,7 @@ public class SpringBootSecurityApplicationTests {
 
     @Test
     public void contextLoads() {
+        system.out.println("老刘到此一游")
     }
 
 }
